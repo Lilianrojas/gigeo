@@ -1,0 +1,17 @@
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
+@import 'abstracts/mixins';
+@import 'abstracts/variables';
+
+@import 'base/reset';
+@import 'base/base';
+
+@import 'components/buttons';
+
+@import 'layout/header';
+@import 'layout/navbar';
+@import 'layout/logo';
+@import 'layout/foto_profile';
+@import 'layout/texto_profile';
+
+
